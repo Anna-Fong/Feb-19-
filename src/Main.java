@@ -17,6 +17,7 @@ import java.util.Scanner;
             int Wins = 0;
             int Losses = 0;
             int Ties = 0;
+            
             // Prompt user to make their move.
             System.out.println("Choose one: Rock, Paper, or Scissors." +
                     " 'End' to end the game");
