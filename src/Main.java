@@ -90,17 +90,5 @@ import java.util.Scanner;
     }
 
 
-
-
-/* How the game works:
-               User and opponent individually choose a move: Rock, Paper, or Scissors.
-               User will either win, lose, or tie, based on their move and their opponents move.
-               Rock beats Scissors, Scissors beats Paper, Paper beats Rock.
-               If the user and opponent makes the same move, it's a tie.
-               Type 'End' to end the game.
-            */
-
-
-//ystem.exit(1);
-
+    
 
